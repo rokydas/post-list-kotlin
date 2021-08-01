@@ -4,4 +4,4 @@ Here, I have retrieved post data from JSON placeholder using retrofit and showed
 
 ### App Preview
 
-![image](https://i.ibb.co/6BZYLgX/retrofit.gif)
+![image](https://github.com/rokydas/post-list-kotlin/blob/main/app/src/main/res/drawable/retrofit.gif)
